@@ -1,0 +1,90 @@
+\PassOptionsToPackage{table}{xcolor}
+\documentclass[12pt,a4paper]{article}
+
+% Page layout (Obsidian uses generous margins)
+\usepackage[a4paper, top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm]{geometry}
+
+% Arabic / RTL
+\usepackage{polyglossia}
+\setmainlanguage{arabic}
+\setotherlanguage{english}
+
+% Use a modern Sans-Serif font to match Obsidian's UI
+% Use Arial, but force italics to use the regular font to prevent missing character errors
+\newfontfamily\arabicfont[
+  Script=Arabic, 
+  Scale=1.1,
+  ItalicFont=Arial,
+  BoldItalicFont=Arial Bold
+]{Arial}
+
+% Obsidian-style paragraph spacing
+\usepackage{setspace}
+\setstretch{1.4}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{8pt}
+
+% Obsidian-style Tables
+\usepackage[table]{xcolor}
+\usepackage{longtable, array, booktabs, tabularx, calc}
+\rowcolors{2}{gray!4}{white} % Very subtle alternating rows
+\setlength{\tabcolsep}{10pt}
+\renewcommand{\arraystretch}{1.5}
+\arrayrulecolor{gray!40}
+
+% Pandoc Compatibility Fixes
+\newcounter{none}
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Obsidian-style Callouts WITH Icons
+\usepackage{fontawesome5}
+\usepackage[most]{tcolorbox}
+\tcbset{
+  obsidian/.style={
+    enhanced,
+    breakable,
+    frame hidden,
+    boxrule=0pt,
+    borderline east={3pt}{0pt}{#1}, % Right-side border for Arabic RTL
+    colback=#1!4,
+    coltitle=#1!90!black,
+    fonttitle=\bfseries\large,
+    sharp corners,
+    left=10pt, right=10pt, top=8pt, bottom=8pt,
+    before skip=14pt, after skip=14pt
+  }
+}
+
+% Define the specific callouts with FontAwesome icons
+\newtcolorbox{note}{obsidian=blue, title=\faPen\quad ملاحظة}
+\newtcolorbox{warning}{obsidian=orange, title=\faExclamationTriangle\quad تنبيه}
+\newtcolorbox{success}{obsidian=green, title=\faCheck\quad نجاح}
+\newtcolorbox{error}{obsidian=red, title=\faTimes\quad خطأ}
+\newtcolorbox{tip}{obsidian=cyan, title=\faLightbulb\quad نصيحة}
+
+% Headers (Bold and Sans-Serif)
+\usepackage{titlesec}
+\titleformat{\section}{\LARGE\bfseries}{}{0pt}{}
+\titleformat{\subsection}{\Large\bfseries}{}{0pt}{}
+\titleformat{\subsubsection}{\large\bfseries}{}{0pt}{}
+
+% Page numbers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+
+\begin{document}
+
+$if(title)$
+\maketitle
+$endif$
+
+$body$
+
+\end{document}

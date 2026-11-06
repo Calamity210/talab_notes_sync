@@ -1,0 +1,260 @@
+{
+  "version": 1,
+  "notebook_id": "eca774fd-3efe-4a52-b8a3-106b1102ed21",
+  "notes": {
+    "0dd1e603-907f-4ef7-862d-8e5afd6e909b": {
+      "id": "0dd1e603-907f-4ef7-862d-8e5afd6e909b",
+      "title": "القانون الإداري",
+      "path": "مقررات الجامعة/أنظمة/القانون الإداري.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/أنظمة/القانون الإداري.md",
+        "sourceHash": "3c8507d9995168e2e452514c1b036b94be36423b05488cd3d7f985cfdd8ffec0",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "1c57247d-f9f7-4821-8b9f-6179745edb1e": {
+      "id": "1c57247d-f9f7-4821-8b9f-6179745edb1e",
+      "title": "أدلة الأحكام 2",
+      "path": "مقررات الجامعة/أصول الفقه/أدلة الأحكام 2.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/أصول الفقه/أدلة الأحكام 2.md",
+        "sourceHash": "021f5a379e1cecee22506f4d43d0a647ccc377c3480b569cb3afa5e05f5121a6",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "293cbe05-d80c-4c8c-b73b-3a9d229f0613": {
+      "id": "293cbe05-d80c-4c8c-b73b-3a9d229f0613",
+      "title": "النحو 3",
+      "path": "مقررات الجامعة/نحو/النحو 3.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/نحو/النحو 3.md",
+        "sourceHash": "1effab4a8158f910b26dd9033a16034b8384d8820276da7d693dd06f6e748dcb",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "35076b8c-e308-43a4-b208-3113962af7f1": {
+      "id": "35076b8c-e308-43a4-b208-3113962af7f1",
+      "title": "نظام المرافعات الشرعية",
+      "path": "مقررات الجامعة/أنظمة/نظام المرافعات الشرعية.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/أنظمة/نظام المرافعات الشرعية.md",
+        "sourceHash": "1fe6012d710d2731c87db9c88b83d5ee95b96c5285f43f7237ef06f2d4bf0a7c",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "356f29ba-34c7-4d37-a2fe-413d6c948f23": {
+      "id": "356f29ba-34c7-4d37-a2fe-413d6c948f23",
+      "title": "مذكرة القانون الدولي الخاص",
+      "path": "مقررات الجامعة/أنظمة/مذكرة القانون الدولي الخاص.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/أنظمة/مذكرة القانون الدولي الخاص.md",
+        "sourceHash": "1d7b5e7f953c5b77f4094ff2c1eeb4d029428d30b2f70f9fb3b9b166082fe890",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "39443f8d-b889-494f-80ff-53fa690f8273": {
+      "id": "39443f8d-b889-494f-80ff-53fa690f8273",
+      "title": "أحاديث الأحكام 3",
+      "path": "مقررات الجامعة/أحاديث الأحكام/أحاديث الأحكام 3.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/أحاديث الأحكام/أحاديث الأحكام 3.md",
+        "sourceHash": "337ef34733254217cb7f0ae3107a227418f0a01c781f97b03b634e31bc57fed0",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "4788e548-ad37-4a36-bdb0-1267c88d5512": {
+      "id": "4788e548-ad37-4a36-bdb0-1267c88d5512",
+      "title": "مذكرة فقه 3",
+      "path": "مقررات الجامعة/فقه/مذكرة فقه 3.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/فقه/مذكرة فقه 3.md",
+        "sourceHash": "7a0aaccfbe43fefa97a686c2895212c734132f84c8aae15b8e623451539c11b8",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "54f7b94c-adc5-4136-acab-c217e5a16dcb": {
+      "id": "54f7b94c-adc5-4136-acab-c217e5a16dcb",
+      "title": "مذكرة مناهج البحث",
+      "path": "مقررات الجامعة/البحث/مذكرة مناهج البحث.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/البحث/مذكرة مناهج البحث.md",
+        "sourceHash": "92376a0b69903a84ecf4e740fcc5b099b0c75d1376b77d2f1ead5711bd4bda2f",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "64494d11-97b9-4eb5-9fbd-b523876edc1c": {
+      "id": "64494d11-97b9-4eb5-9fbd-b523876edc1c",
+      "title": "مذكرة توحيد 3",
+      "path": "مقررات الجامعة/توحيد/مذكرة توحيد 3.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/توحيد/مذكرة توحيد 3.md",
+        "sourceHash": "09ab90b74c7d146c4e2fd0d8df27a1912770ddf2f16526d2f0be034fe0952e49",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "6bfc26fc-cabc-4065-ad2f-abdb11471311": {
+      "id": "6bfc26fc-cabc-4065-ad2f-abdb11471311",
+      "title": "مذكرة نحو 2",
+      "path": "مقررات الجامعة/نحو/مذكرة نحو 2.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/نحو/مذكرة نحو 2.md",
+        "sourceHash": "d363786ee07c461e155398c927da7099418e467b38d9b1f47374608b11945754",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "6ca14ee1-9aaf-46a4-b385-ff096b37f4f0": {
+      "id": "6ca14ee1-9aaf-46a4-b385-ff096b37f4f0",
+      "title": "مذكرة فقه 4",
+      "path": "مقررات الجامعة/فقه/مذكرة فقه 4.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/فقه/مذكرة فقه 4.md",
+        "sourceHash": "748e8a132633bf5b9c0b438481a5005cae26611eb9dc561678bc2cc2014dde68",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "70ad5398-4a01-42f1-bfc9-3564b827248b": {
+      "id": "70ad5398-4a01-42f1-bfc9-3564b827248b",
+      "title": "تفسير آيات الأحكام 2",
+      "path": "مقررات الجامعة/تفسير/تفسير آيات الأحكام 2.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/تفسير/تفسير آيات الأحكام 2.md",
+        "sourceHash": "42c8aacd8138462b878ce4622d43a858dd5ed35a36f086721d3afa6ed703a8d6",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "bf7c064d-2d5f-48da-bfa0-ed1e2dd8d489": {
+      "id": "bf7c064d-2d5f-48da-bfa0-ed1e2dd8d489",
+      "title": "مذكرة أدلة الأحكام",
+      "path": "مقررات الجامعة/أصول الفقه/مذكرة أدلة الأحكام.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/أصول الفقه/مذكرة أدلة الأحكام.md",
+        "sourceHash": "6f9ab104cc8470708d27683bcf0c623d933278f3ec5680192473db379f7d4321",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "d21d7acb-a6a9-4c66-bd9d-737fae3135da": {
+      "id": "d21d7acb-a6a9-4c66-bd9d-737fae3135da",
+      "title": "أخصر المختصرات",
+      "path": "مقررات الجامعة/فقه/أخصر المختصرات.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/فقه/أخصر المختصرات.md",
+        "sourceHash": "75ad053c0c800982d1af243c024762d33658ab4b99b1d2b971858d0073c33556",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "e03e951c-1bd6-4848-a704-37bc4699a24e": {
+      "id": "e03e951c-1bd6-4848-a704-37bc4699a24e",
+      "title": "مذكرة أحاديث الأحكام 2",
+      "path": "مقررات الجامعة/أحاديث الأحكام/مذكرة أحاديث الأحكام 2.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/أحاديث الأحكام/مذكرة أحاديث الأحكام 2.md",
+        "sourceHash": "dc19675c8aa50ddb4534d67ab3196296852c734ef52527a7f51b627d4b6b736e",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "e278af22-ba0f-44d7-83be-b8def8949fcc": {
+      "id": "e278af22-ba0f-44d7-83be-b8def8949fcc",
+      "title": "مذكرة فقه للاختبار",
+      "path": "مقررات الجامعة/فقه/مذكرة فقه للاختبار.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/فقه/مذكرة فقه للاختبار.md",
+        "sourceHash": "46cfef84f8d8fda1ab9aaba15e9b94810036c959203b5d98cc7543bd1601fac4",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "e5833427-152a-4ec2-9096-96161d37eac2": {
+      "id": "e5833427-152a-4ec2-9096-96161d37eac2",
+      "title": "الخلاف والمناظرة",
+      "path": "مقررات الجامعة/أصول الفقه/الخلاف والمناظرة.md",
+      "origin": {
+        "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+        "path": "مقررات الجامعة/أصول الفقه/الخلاف والمناظرة.md",
+        "sourceHash": "c5e9997812073b7128184062edaacddad2d8ae14805c82dfd062dd45586c62f5",
+        "aliases": []
+      },
+      "lesson": null
+    },
+    "m0-notebook": {
+      "id": "m0-notebook",
+      "title": "دفتر التجربة",
+      "path": "Notes/دفتر التجربة-d4c022375c.md",
+      "origin": null,
+      "lesson": {
+        "videoId": "FdxZylJyi-w",
+        "title": "",
+        "positionSeconds": 665.137303,
+        "updatedAt": 0
+      }
+    }
+  },
+  "assets": {
+    "templates/arabic-template.tex": {
+      "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+      "path": "templates/arabic-template.tex"
+    },
+    "templates/callsout.lua": {
+      "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+      "path": "templates/callsout.lua"
+    },
+    "مرفقات/Pasted image 20261020191720.png": {
+      "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+      "path": "مرفقات/Pasted image 20261020191720.png"
+    },
+    "مرفقات/Pasted image 20261020191741.png": {
+      "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+      "path": "مرفقات/Pasted image 20261020191741.png"
+    },
+    "مرفقات/Pasted image 20261020191815.png": {
+      "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+      "path": "مرفقات/Pasted image 20261020191815.png"
+    },
+    "مرفقات/Pasted image 20261021021201.png": {
+      "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+      "path": "مرفقات/Pasted image 20261021021201.png"
+    },
+    "مرفقات/Pasted image 20261106105121.png": {
+      "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+      "path": "مرفقات/Pasted image 20261106105121.png"
+    },
+    "مقررات الجامعة/نحو/النحو 3.docx": {
+      "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+      "path": "مقررات الجامعة/نحو/النحو 3.docx"
+    },
+    "مقررات الجامعة/نحو/شرح ابن عقيل_removed (1).pdf": {
+      "vaultId": "c60256798b370cf1bb424b5082c6ddc69d2f58d3cb268e6d502df2c89901ac1b",
+      "path": "مقررات الجامعة/نحو/شرح ابن عقيل_removed (1).pdf"
+    }
+  }
+}
